@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gl-farias-estetica-automotiva.oaken-mochi-8060.chatgpt.site/sitemap.xml

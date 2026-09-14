@@ -1,0 +1,7 @@
+node_modules/
+.local/
+qa-*.png
+qa-results.json
+*.tar.gz
+.env
+.env.*

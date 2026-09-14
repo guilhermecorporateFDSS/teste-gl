@@ -1,0 +1,1 @@
+Adicione a logo oficial nesta pasta e informe seu caminho em `CONTENT.brand.logo`. O lettering atual é provisório. Extraia a cor de destaque da identidade oficial antes de alterar os tokens de `css/style.css`.
